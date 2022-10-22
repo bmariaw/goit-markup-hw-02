@@ -138,6 +138,11 @@ body {
   letter-spacing: 0.06em;
 }
 
+.main-button:hover,
+.main-button:focus {
+  background: #188ce8;
+}
+
 .contact-footer .link:hover,
 .contact-footer .link:focus {
   color: var(--accent-color);
